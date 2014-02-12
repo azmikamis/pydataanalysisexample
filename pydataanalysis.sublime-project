@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "/D/python-workspace/pydataanalysis"
+		}
+	],
+    "build_systems":
+    [
+        {
+            "name": "gisdev",
+            "cmd": ["D:/.virtualenvs/gisdev/Scripts/python", "$file"]
+        }
+    ]
+}
