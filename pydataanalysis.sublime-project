@@ -2,14 +2,14 @@
 	"folders":
 	[
 		{
-			"path": "/D/python-workspace/pydataanalysis"
+			"path": "/D/python-workspace/pydataanalysisexample"
 		}
 	],
     "build_systems":
     [
         {
             "name": "gisdev",
-            "cmd": ["D:/.virtualenvs/gisdev/Scripts/python", "$file"]
+            "cmd": ["D:/.virtualenvs/gisdev/Scripts/python.exe", "$file"]
         }
     ]
 }
